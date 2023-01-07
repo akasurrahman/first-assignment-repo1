@@ -1,0 +1,344 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+                                /* first--section */
+.banner {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.banner img {
+  width: 100%;
+}
+
+.banner h1 {
+  position: absolute;
+  font-weight: bold;
+  width: 525px;
+  height: 228px;
+  left: 845px;
+  top: 216px;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 65px;
+  line-height: 76px;
+  text-align: right;
+  color: #151414;
+}
+
+.banner-paragraph {
+  position: absolute;
+  width: 494px;
+  height: 78px;
+  left: 876px;
+  top: 468px;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: right;
+  color: #444343;
+}
+
+.b-button {
+  position: absolute;
+  width: 160px;
+  height: 64px;
+  left: 1210px;
+  top: 578px;
+  background-color: #f6642a;
+  border-radius: 5px;
+  border-color: wheat;
+}
+
+/* second--section */
+
+.f-image {
+  position: absolute;
+  width: 569px;
+  height: 723.3px;
+  left: 218px;
+  top: 924px;
+}
+.h-failure {
+  position: absolute;
+  width: 288px;
+  height: 94px;
+  left: 874px;
+  top: 1163px;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #151414;
+}
+
+.f-para {
+  position: absolute;
+  width: 416px;
+  height: 104px;
+  left: 874px;
+  top: 1281px;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #444343;
+}
+
+.f-list {
+  position: absolute;
+  width: 349px;
+  height: 162px;
+  left: 874px;
+  top: 1401px;
+}
+
+/* Third-Section */
+.h-plan {
+  position: absolute;
+  width: 179px;
+  height: 47px;
+  left: 711px;
+  top: 1792.3px;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #151414;
+}
+
+.p-image {
+  position: absolute;
+  width: 92.96px;
+  height: 92.96px;
+  left: 320px;
+  top: 1889px;
+}
+
+.h-web {
+  position: absolute;
+  width: 270px;
+  height: 35px;
+  left: 230px;
+  top: 2012.26px;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  color: #151414;
+}
+
+.p-para {
+  position: absolute;
+  width: 177px;
+  height: 29px;
+  left: 277px;
+  top: 2063.26px;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+  color: #737272;
+}
+.js-image {
+  position: absolute;
+  width: 92.96px;
+  height: 92.96px;
+  left: 631px;
+  top: 1889px;
+}
+
+.js-h {
+  position: absolute;
+  width: 156px;
+  height: 35.13px;
+  left: 599px;
+  top: 2006px;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  color: #151414;
+}
+
+.js-para {
+  position: absolute;
+  width: 181px;
+  height: 29.11px;
+  left: 586px;
+  top: 2057.19px;
+
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+  color: #737272;
+}
+
+.s-image {
+  position: absolute;
+  width: 93px;
+  height: 93px;
+  left: 916px;
+  top: 1889.3px;
+}
+
+.s-h {
+  position: absolute;
+  width: 218px;
+  height: 35px;
+  left: 853px;
+  top: 2006.3px;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  color: #151414;
+}
+.s-para {
+  position: absolute;
+  width: 164px;
+  height: 29px;
+  left: 880px;
+  top: 2057.3px;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+  color: #737272;
+}
+
+.ecmrc-image {
+  position: absolute;
+  width: 92.96px;
+  height: 92.96px;
+  left: 1218px;
+  top: 1889.3px;
+}
+
+.ecmrc-h {
+  position: absolute;
+  width: 174px;
+  height: 35px;
+  left: 1177px;
+  top: 2006.3px;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  color: #151414;
+}
+
+.e-paragraph {
+  position: absolute;
+  width: 214px;
+  height: 29px;
+  left: 1157px;
+  top: 2057.3px;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+  color: #737272;
+}
+
+/* section-4 */
+.contact {
+  background-image: url(/images/gradient3.png);
+  height: 300px;
+  margin-top: 1470px;
+  margin-left: 200px;
+  background-repeat: no-repeat;
+}
+.overlay {
+  height: 300px;
+    margin-left: 5px;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(to right, #ed5a22, transparent 60%),
+    url(/images/watch.png);
+    
+}
+.overlay h1 {
+  position: absolute;
+  width: 459px;
+  height: 94px;
+  left: 300px;
+  top: 2320.3px;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #ffffff;
+}
+
+.overlay button {
+  padding: 20px;
+  position: relative;
+  width: 148px;
+  height: 54px;
+  border-radius: 5px;
+  color: #ed5a22;
+  font-weight: bold;
+  border: none;
+  left: 100px;
+  top: 200px;
+}
+
+/* section-5 */
+footer {
+  background-color: black;
+  color: white;
+}
+.padding {
+  padding: 120px;
+}
+.ending-right {
+  position: absolute;
+  width: 325px;
+  height: 204px;
+  left: 1046px;
+  top: 2790.3px;
+}
+
+.padding input {
+  background-color: #151414;
+  border-radius: 5px;
+  width: 250px;
+  border-color: white;
+  padding: 15px;
+}
+.padding button {
+  padding: 20px;
+  position: absolute;
+  width: 148px;
+  height: 54px;
+  border-radius: 5px;
+  color: #ed5a22;
+  font-weight: bold;
+  border: none;
+}
